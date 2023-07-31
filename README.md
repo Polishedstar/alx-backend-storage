@@ -1,2 +1,2 @@
-# alx-backend-storage
+# Solutions to projects on databases
 Backend Storage - SQL programming language
